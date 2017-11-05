@@ -6,13 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mojoeats.me/images/how_it_works.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mojoeats.me/images/mojomonkey.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/mojotext.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/how_it_works.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/screen%20shot%202017-11-02%20at%2023027%20pm.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/phone.png</image:loc>
@@ -24,16 +27,16 @@
       <image:loc>http://mojoeats.me/images/screen%20shot%202017-11-02%20at%2023027%20pm105x92.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/phone217x427.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mojoeats.me/images/screen%20shot%202017-11-02%20at%2023027%20pm157x137.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/screen%20shot%202017-11-02%20at%2023027%20pm.jpg</image:loc>
+      <image:loc>http://mojoeats.me/images/phone217x427.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/how_it_works696x223.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/screen%20shot%202017-11-02%20at%2023027%20pm135x118.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/phone163x320.png</image:loc>
@@ -54,16 +57,16 @@
       <image:loc>http://mojoeats.me/images/unnamed174x174.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/phone166x326.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/unnamed157x157.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mojoeats.me/images/how_it_works605x194.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/screen%20shot%202017-11-02%20at%2023027%20pm154x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/phone166x326.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/unnamed157x157.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/phone_step1_bg.png</image:loc>
@@ -82,6 +85,21 @@
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/unnamed151x151.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/restaurant_step2135x109.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/runner_step3127x110.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/screen%20shot%202017-11-02%20at%2023027%20pm123x107.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/phone162x318.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/unnamed140x140.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/restaurant_step2137x111.jpg</image:loc>
@@ -127,24 +145,6 @@
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/unnamed86x87.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/screen%20shot%202017-11-02%20at%2023027%20pm135x118.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/restaurant_step2135x109.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/runner_step3127x110.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/screen%20shot%202017-11-02%20at%2023027%20pm123x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/phone162x318.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/unnamed140x140.png</image:loc>
     </image:image>
   </url>
 </urlset>
