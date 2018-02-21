@@ -4,15 +4,23 @@
 	<head>
 		<title>Sakib Ar Rahman</title>
 		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+		<!-- <link rel="stylesheet" href="assets/css/animate.css"> -->
+		<link rel="stylesheet" href="assets/css/main.css" />
+
+		<!-- <script type="text/javascript" src="assets/js/waypoints.js"></script> -->
+		<!-- <link rel="stylesheet" type="text/css" href="assets/css/animate.css"> -->
+
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="google-site-verification" content="rmna_yxxailkBedRhK08XwLpJIEeW_NRCcSGuoqgLfc" />
 		<meta name="description" content='Sakib Ar Rahman, aspiring 3rd year mechatronics engineering student at the University of Waterloo, data scientist and machine learning enthusiast.' />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
+
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
+
+
 	<body>
 
 		<!-- Wrapper -->
@@ -67,7 +75,9 @@
 										<header class="major">
 											<h2 style="padding-top:1em">About Me</h2>
 										</header>
-										<p class="notViewed animBlock" data-position="left">
+
+										<p class="animation-element slide-left">
+										<!-- <p id="element-to-animate" class="animated"> -->
 											Hi, I am a third year mechatronics engineering student at the University of Waterloo.
 											Having an inter-disciplinary exposure to software-hardware development and interfacing,
 											I am fascinated by robotics and the progress made in the machine learning industry. I have had exposure
@@ -114,10 +124,10 @@
 										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
 									</li>
 								</ul> -->
-								<span class="sectionTitle notViewed animBlock" data-position="left"><img style="width:100%" src="images/ibm_logo.png" alt="IBM Logo" /> </span>
+								<span id = "company1-logo" class="sectionTitle animation-element slide-left"><img style="width:100%" src="images/ibm_logo.png" alt="IBM Logo" /> </span>
 								<!-- <span class="icon major style3 sectionTitle animation-element slide-left"><img src="images/IBM_logo.svg" alt="" /></span> -->
 								<div class="sectionContent">
-									<article class="notViewed animBlock" data-position="right">
+									<article class=" animation-element slide-right ">
 										<h2>IBM</h2>
 										<div class="subDetails">
 											<span class ="float:left">Data Scientist</span>
@@ -146,9 +156,9 @@
 
 
 								<!-- <span class="icon major style3 fa-diamond sectionTitle animation-element slide-left"></span> -->
-								<span class="sectionTitle notViewed animBlock" data-position="left"><img style= "width:100%" src="images/ugo_logo.png" alt="UGO Logo" /></span>
+								<span class="sectionTitle  animation-element slide-left"><img style= "width:100%" src="images/ugo_logo.png" alt="UGO Logo" /></span>
 								<div class="sectionContent">
-									<article class="notViewed animBlock" data-position="right">
+									<article class=" animation-element slide-right">
 										<h2>UGO Mobile Solutions (TD Bank)</h2>
 										<div class="subDetails">
 											<span class ="float:left">Android Developer</span>
@@ -177,9 +187,9 @@
 								<div class="clear"></div>
 
 
-								<span class="sectionTitle  notViewed animBlock" data-position="left">BlueFire Technologies</span>
+								<span class="sectionTitle  animation-element slide-left" data-position="left">BlueFire Technologies</span>
 								<div class="sectionContent">
-									<article class=" notViewed animBlock" data-position="right">
+									<article class=" animation-element slide-right">
 										<h2>BlueFire Technologies</h2>
 										<div class="subDetails">
 											<span class ="float:left">Software Developer</span>
@@ -206,9 +216,9 @@
 							<div class="clear"></div>
 
 
-								<span class="sectionTitle  notViewed animBlock" data-position="left"><img style= "width:100%" src="images/devcon_logo.png" alt="DevConsultants Limited Logo" /></span>
+								<span class="sectionTitle  animation-element slide-left" data-position="left"><img style= "width:100%" src="images/devcon_logo.png" alt="DevConsultants Limited Logo" /></span>
 								<div class="sectionContent">
-									<article class=" notViewed animBlock" data-position="right">
+									<article class=" animation-element slide-right">
 										<h2>DevConsultants Limited</h2>
 										<div class="subDetails">
 											<span class ="float:left">Engineering Intern</span>
@@ -253,9 +263,9 @@
 								</header>
 
 
-								<span class="sectionTitle  notViewed animBlock" data-position="left"><h2>DrawSense </h2></span>
+								<span class="sectionTitle  animation-element slide-left"><h2>DrawSense </h2></span>
 								<div class="sectionContent">
-									<article class=" notViewed animBlock" data-position="right">
+									<article class=" animation-element slide-right">
 										<!-- <h2>IBM</h2> -->
 										<div class="subDetails">
 											<!-- <span class ="float:left">Data Scientist</span> -->
@@ -283,9 +293,9 @@
 								<div class="clear"></div>
 
 
-								<span class="sectionTitle  notViewed animBlock" data-position="left"><h2>Intruder Alert System (Raspberry Pi) </h2></span>
+								<span class="sectionTitle  animation-element slide-left"><h2>Intruder Alert System (Raspberry Pi) </h2></span>
 								<div class="sectionContent">
-									<article class=" notViewed animBlock" data-position="right">
+									<article class=" animation-element slide-right">
 										<!-- <h2>IBM</h2> -->
 										<div class="subDetails">
 											<!-- <span class ="float:left">Data Scientist</span> -->
@@ -413,15 +423,17 @@
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery-1.10.2.min.js"></script>
+			<!-- <script src="assets/js/jquery-1.10.2.min.js"></script> -->
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/buttonslide.js"></script>
-			<script src="assets/js/animateleft.js"></script>
-			<script src="assets/js/lightbox.js"></script>
-			<script src="assets/js/scrollview.js"></script>
+			<script src="assets/js/animateslide.js"></script>
+			<!-- <script src="assets/js/lightbox.js"></script> -->
+			<!-- <script src="assets/js/scrollview.js"></script> -->
+			<!-- <script src="assets/js/animateSlideLeftRight.js"></script> -->
+			<!-- <script src="assets/js/waypoints.js"></script> -->
 
 
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
