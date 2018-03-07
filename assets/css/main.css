@@ -3257,10 +3257,10 @@ a img{
 			}
 
 			#header.alt > * {
-				-moz-transition: opacity 8s ease;
-				-webkit-transition: opacity 8s ease;
-				-ms-transition: opacity 8s ease;
-				transition: opacity 8s ease;
+				-moz-transition: opacity 6s ease;
+				-webkit-transition: opacity 6s ease;
+				-ms-transition: opacity 6s ease;
+				transition: opacity 6s ease;
 				-moz-transition-delay: 0.5s;
 				-webkit-transition-delay: 0.5s;
 				-ms-transition-delay: 0.5s;
